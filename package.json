@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://magedgamail.githup.io/chatpot-project-try",
+  "homepage": "http://magedgamail.githup.io/ChatBot",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
